@@ -1,0 +1,5 @@
+a, b, c, d = input().split()
+a = float(a)
+b = int(b)
+d = float(d)
+print(c, b, '%.2f' % a, '%.2f' % d)
